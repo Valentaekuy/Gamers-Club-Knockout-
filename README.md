@@ -1,2 +1,2 @@
 # Gamers-Club-Knockout-
-el gamer club nocaut reúne a gamers Gen developers y programadores de cualquier categoría que estén interesados en los videojuegos en el desarrollo de estos vienen análisis de las dinámicas de juego
+El gamer club knockout reúne a gamers, game developers y programadores de cualquier categoría que estén interesados en los videojuegos en el desarrollo de estos, análisis de las dinámicas de juego, de guiones de juego, mecánicas y reglas, curva de dificultad y progresión, estabilidad y optimización (bugs y caídas), IA aplicadas a los PNJ, diseño visual, dirección de arte y sonidos, narrativa, contexto y guión, entre otros aspectos. 
